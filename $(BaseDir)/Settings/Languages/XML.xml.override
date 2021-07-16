@@ -4,7 +4,6 @@
 	<style name="default" fore="0xABB2BF" back="0x282C34" font="Consolas" size="10" bold="false" />
 	<style name="tag" fore="0xE06C75" />
 	<style name="tagunknown" fore="0xE06C75" />
-	<thing>Oh a thang<thing/>
 	<style name="attribute" fore="0xD19A66" />
 	<style name="attributeunknown" fore="0xD19A66" />
 	<style name="number" />
