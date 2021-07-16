@@ -1,14 +1,15 @@
 ﻿<!-- COLORING_START -->
 <editor-style caret-fore="0xF1F1F1" caretline-back="0x323842" selection-back="0x333A46" selection-fore="0xDCDCDC" margin-fore="0x282C34" margin-back="0x282C34" colorize-marker-back="true" marker-back="0xbcbcbc" marker-fore="0x282C34" />
 <use-styles>
-	<style name="default" fore="0x98C379" back="0x282C34" font="Consolas" size="10" bold="false" />
+	<style name="default" fore="0xABB2BF" back="0x282C34" font="Consolas" size="10" bold="false" />
 	<style name="tag" fore="0xE06C75" />
 	<style name="tagunknown" fore="0xE06C75" />
+	<thing>Oh a thang<thing/>
 	<style name="attribute" fore="0xD19A66" />
 	<style name="attributeunknown" fore="0xD19A66" />
 	<style name="number" />
-	<style name="doublestring" />
-	<style name="singlestring" />
+	<style name="doublestring" fore="0xABB2BF" />
+	<style name="singlestring" fore="0xABB2BF" />
 	<style name="other" fore="0xABB2BF" />
 	<style name="comment" fore="0x7F848E" />
 	<style name="entity" />
