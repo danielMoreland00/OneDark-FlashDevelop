@@ -1,6 +1,6 @@
 # ⚡ One Dark Theme 🌘
 
-_One Dark theme for Flash Develop IDE, based on One Dark Pro in VSCode_
+_One Dark theme for Flash Develop IDE 5.3+, based on One Dark Pro in VSCode_
 
 # Install Instructions 🔽
 
