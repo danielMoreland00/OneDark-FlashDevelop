@@ -1,5 +1,5 @@
 ﻿<!-- COLORING_START -->
-<editor-style caret-fore="0xF1F1F1" caretline-back="0x323842" selection-back="0x333A46" selection-fore="0xDCDCDC" margin-fore="0x282C34" margin-back="0x282C34" colorize-marker-back="true" marker-back="0xbcbcbc" marker-fore="0x282C34" />
+<editor-style caret-fore="0xF1F1F1" caretline-back="0x323842" selection-back="0x404859" selection-fore="0xABB2BF" margin-fore="0x282C34" margin-back="0x282C34" colorize-marker-back="true" marker-back="0xbcbcbc" marker-fore="0x282C34" />
 <use-styles>
 	<style name="default" fore="0xABB2BF" back="0x282C34" font="Consolas" size="10" bold="false" />
 	<style name="tag" fore="0xE06C75" />
@@ -7,10 +7,10 @@
 	<style name="attribute" fore="0xD19A66" />
 	<style name="attributeunknown" fore="0xD19A66" />
 	<style name="number" />
-	<style name="doublestring" fore="0xABB2BF" />
-	<style name="singlestring" fore="0xABB2BF" />
+	<style name="doublestring" fore="0x98C379" />
+	<style name="singlestring" fore="0x98C379" />
 	<style name="other" fore="0xABB2BF" />
-	<style name="comment" fore="0x7F848E" />
+	<style name="comment" fore="0x7F848E" italics="true"/>
 	<style name="entity" />
 	<style name="tagend" fore="0xABB2BF" />
 	<style name="xmlstart" fore="0xABB2BF" />
@@ -20,7 +20,7 @@
 	<style name="aspat" />
 	<style name="cdata" />
 	<style name="question" />
-	<style name="value" fore="0xABB2BF" />
+	<style name="value" />
 	<style name="xccomment" />
 	<style name="sgml_default" fore="0xABB2BF" />
 	<style name="sgml_command" fore="0xD19A66" />
@@ -112,7 +112,7 @@
 	<style name="php_commentline" fore="0x57A63A" />
 	<style name="php_hstring_variable" />
 	<style name="php_operator" fore="0xB4B4B4" />
-	<style name="gdefault" fore="0x333333" />
+	<style name="gdefault" fore="0x282C34" />
 	<style name="linenumber" fore="0x495162" />
 	<style name="bracelight" back="0xE2E6D6" />
 	<style name="bracebad" />
