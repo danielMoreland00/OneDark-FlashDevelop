@@ -20,7 +20,7 @@
 	<style name="aspat" />
 	<style name="cdata" />
 	<style name="question" />
-	<style name="value" />
+	<style name="value" fore="0xABB2BF" />
 	<style name="xccomment" />
 	<style name="sgml_default" fore="0xABB2BF" />
 	<style name="sgml_command" fore="0xD19A66" />
